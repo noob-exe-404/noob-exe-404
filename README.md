@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ahh... I do nothing. I’m a noob. Welcome.
+If it works, don't touch it. THANK U 😒
 
 
 ## 🌐 Socials:
