@@ -11,13 +11,6 @@
 
   <br/>
 
-  <!-- Animated macOS Terminal Window -->
-  <p align="center">
-    <img src="./assets/terminal-window.svg" width="680" alt="Terminal Window" />
-  </p>
-
-  <br/>
-
   <!-- Compact Skill Arsenal -->
   <p align="center">
     <img src="https://skillicons.dev/icons?i=py,cpp,c,pytorch,tensorflow,mysql,git,bash&theme=dark" alt="Tech Stack" />
@@ -35,6 +28,17 @@
   <!-- Smooth Commit Activity Graph (Seamless #0D1117 Background & Cream Curve) -->
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=noob-exe-404&bg_color=0D1117&color=F5F2EB&line=F5F2EB&point=F5F2EB&area=true&area_color=161B22&hide_border=true&radius=10" width="100%" alt="Commit Activity Graph" />
+  </p>
+
+  <br/>
+
+  <!-- Commit Window Animated Snake (Contribution Grid) -->
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noob-exe-404/noob-exe-404/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noob-exe-404/noob-exe-404/output/github-contribution-grid-snake.svg">
+      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/noob-exe-404/noob-exe-404/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    </picture>
   </p>
 
   <br/>
