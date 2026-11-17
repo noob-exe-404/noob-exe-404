@@ -11,6 +11,13 @@
 
   <br/>
 
+  <!-- Animated macOS Terminal Window -->
+  <p align="center">
+    <img src="./assets/terminal-window.svg" width="680" alt="Terminal Window" />
+  </p>
+
+  <br/>
+
   <!-- Compact Skill Arsenal -->
   <p align="center">
     <img src="https://skillicons.dev/icons?i=py,cpp,c,pytorch,tensorflow,mysql,git,bash&theme=dark" alt="Tech Stack" />
