@@ -30,12 +30,12 @@
 
   <br/>
 
-  <!-- Pac-Man Contribution Game Animation -->
+  <!-- Breakout Contribution Game Animation -->
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg">
-      <img alt="Pac-Man Contribution Graph" src="./assets/pacman-contribution-graph-dark.svg" width="100%" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/breakout-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/breakout-contribution-graph.svg">
+      <img alt="Breakout Contribution Graph" src="./assets/breakout-contribution-graph-dark.svg" width="100%" />
     </picture>
   </p>
 
